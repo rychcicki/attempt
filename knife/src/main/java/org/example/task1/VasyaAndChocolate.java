@@ -33,3 +33,5 @@ public class VasyaAndChocolate {
         return output;
     }
 }
+
+
